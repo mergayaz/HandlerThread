@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Название в приложениях</string>
+    <string name="main_title">Название на иконке</string>
+    <string name="toolbar_title">Название на заголовке</string>
+</resources>
